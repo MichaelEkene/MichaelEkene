@@ -5,7 +5,7 @@
       -(https://github.com/MichaelEkene/ReactEcommerceDeployment)
 
 -<b>AWS Microservices CICD Deploy with Terraform </b>
- - [Microservices Architect](https://github.com/MichaelEkene/Microservice-CICD-Terraform-Deployment) <b><i>(Potentially NSFW)</b></i>
+ - [Microservices Architect](https://github.com/MichaelEkene/Microservice-CICD-Terraform-Deployment) <b><i></b></i>
 <!--
 **MichaelEkene/MichaelEkene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
