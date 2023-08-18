@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Michael but my homies call me Ekene!   <br/><a href="https://github.com/MichaelEkene">Cloud Developer Devops  Architect, Devops, System Adminitrator and a Businessman</a> I am an AWS Cloud Developer Devops  Architect, Devops, System Adminitrator and a Businessman 
+<h1>Hi there, I'm Michael but my homies call me Ekene! I am an <br/><a href="https://github.com/MichaelEkene"> AWS Cloud Developer Devops  Architect, Devops, System Adminitrator and a Businessman</a>  AWS Cloud Developer Devops  Architect, Devops, System Adminitrator and a Businessman 
  </h1>
 
 <!--
