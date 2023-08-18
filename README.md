@@ -2,7 +2,7 @@
 
 <h2>👨‍💻My AWS Development Projects:</h2>
 - <b>Deploying FullStack React Application (EC2, RDS(mysql) S3, Cloudfront</b>
-  - (https://github.com/MichaelEkene/ReactEcommerceDeployment)
+    -(https://github.com/MichaelEkene/ReactEcommerceDeployment)
 
 <!--
 **MichaelEkene/MichaelEkene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
