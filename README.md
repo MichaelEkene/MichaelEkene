@@ -1,5 +1,4 @@
-<h1>Hi there, I'm Michael but my homies call me Ekene! I am an <br/><a href="https://github.com/MichaelEkene"> AWS Cloud Developer Devops  Architect, Devops, System Adminitrator and a Businessman</a>  AWS Cloud Developer Devops  Architect, Devops, System Adminitrator and a Businessman 
- </h1>
+<h1>Hi there, I'm Michael but my homies call me Ekene! I am an <br/><a href="https://github.com/MichaelEkene"> AWS Cloud Developer Devops  Architect, Devops, System Adminitrator and a Businessman</a>  </h1>
 
 <!--
 **MichaelEkene/MichaelEkene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
