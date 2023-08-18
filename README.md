@@ -7,6 +7,9 @@
 
 -<b>AWS Microservices CICD Deploy with Terraform </b>
  - [Microservices Architect](https://github.com/MichaelEkene/Microservice-CICD-Terraform-Deployment) <b><i></b></i>
+
+ <h2> Certification </h2>
+ - [AWS Certified Cloud Practiioner] (<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6ef65b04-3588-440d-9bfe-56c81f226565" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>) <b><i></b></i>
 <!--
 **MichaelEkene/MichaelEkene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
