@@ -1,9 +1,11 @@
 <h1>Hi there, I'm Michael but my homies call me Ekene! I am an <br/><a href="https://github.com/MichaelEkene"> AWS Cloud Developer Devops  Architect, Devops, System Adminitrator and a Businessman</a>  </h1>
 
 <h2>👨‍💻My AWS Development Projects:</h2>
-- <b>Deploying FullStack React Application (EC2, RDS(mysql) S3, Cloudfront</b>
-    -(https://github.com/MichaelEkene/ReactEcommerceDeployment)
+-<b>Deploying FullStack React Application (EC2, RDS(mysql) S3, Cloudfront</b>
+      -(https://github.com/MichaelEkene/ReactEcommerceDeployment)
 
+-<b>AWS Microservices CICD Deploy with Terraform </b>
+ - [Microservices Architect](https://github.com/MichaelEkene/Microservice-CICD-Terraform-Deployment) <b><i>(Potentially NSFW)</b></i>
 <!--
 **MichaelEkene/MichaelEkene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
